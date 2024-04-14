@@ -1,0 +1,13 @@
+# Ignorar archivos generados por el sistema operativo
+.DS_Store
+
+# Ignorar archivos de dependencias de Node.js
+/node_modules
+/bot_sessions
+/recibos
+
+# Ignorar archivos generados por tu editor de texto
+*.swp
+*.swo
+*.png
+*.log
